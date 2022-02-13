@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Thiago Aparecido
 
 - 🌱 Atualmente estou me aprofundando em Node.js
-- 😃 Atualmente sei HTML, CSS, JavaScript e React
+- 😃 Atualmente sei HTML, CSS, JavaScript, React.js, Node.js e Express
 - 🧐 Pretendo aprender TypeScript
 
  ##
