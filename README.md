@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Thiago Aparecido
 
-- 🌱 Atualmente estou me aprofundando em Node.js
+- 🌱 Atualmente estou aprendendo python
 - 😃 Atualmente sei HTML, CSS, JavaScript, React.js, Node.js e Express
 - 🧐 Pretendo aprender TypeScript
 
@@ -20,6 +20,7 @@
   <img align="center" alt="Tcheago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tcheago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Tcheago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="Tcheago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
  ##
