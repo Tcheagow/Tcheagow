@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Thiago Aparecido
 
-- 🌱 Atualmente estou aprendendo python
+- 🌱 Atualmente estou aprendendo c++
 - 😃 Atualmente sei HTML, CSS, JavaScript, React.js, Node.js, Express, Python e C++
 - 🧐 Pretendo aprender TypeScript
 
