@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estou aprendendo c++
 - 😃 Atualmente sei HTML, CSS, JavaScript, React.js, Node.js, Express, Python e C++
-- 🧐 Pretendo aprender TypeScript
+- 🧐 Estou estudando TypeScript e Estrutura De Dados
 
  ##
   
@@ -22,6 +22,7 @@
   <img align="center" alt="Tcheago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Tcheago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Tcheago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Tcheago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
  ##
