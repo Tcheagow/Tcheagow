@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Thiago Aparecido
 
-- 🌱 Atualmente estou aprendendo c++
-- 😃 Atualmente sei desenvolver para Web usando as principais ferramentas do mercado e tenho conhecimentos de linguagens como Python, C++, Java e JavaScript
-- 🧐 Estou estudando TypeScript e Estrutura De Dados
+- 🌱 Atualmente estou aprendendo o framework Grails
+- 😃 Atualmente sei desenvolver para Web usando as principais ferramentas do mercado como, por exemplo, Java, Python, C++ e JavaScript
+- 🧐 Estou estudando Estrutura De Dados e Java
 
  ##
   
