@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Thiago Aparecido
 
-- 🌱 Atualmente estou aprendendo o framework Grails
+- 💻 Trabalho no Asaas
 - 😃 Atualmente sei desenvolver para Web usando as principais ferramentas do mercado como, por exemplo, Java, Python, C++ e JavaScript
 - 🧐 Estou estudando Estrutura De Dados e Java
 
